@@ -1,7 +1,10 @@
-## 
+## 👋 Hello There 
+<!-- 
 <p align="center">
   <img src="readmeimg.png" alt="develloperdesli banner" width="1000" height="300"/>
 </p>
+-->
+
 
 Hi! I am **Karun van Renselaar**, an enthusiastic young programmer interested in learning everything about IT.  
 
