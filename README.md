@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Karun van Renselaar an enthusiastic young programmer intrested in learning everything about it. 
 📫 How to reach me: Just send me an e-mail on my verified e-mail.
-I’m currently working on a new website for my middle school that's gonna be released soon 
+I’m currently working on a new website for my middle school that's gonna be released soon see the website here [https://github.com/devdesli/AgoraWeb].
 🤔 I’m looking for help with this new website for my middle school if you have intrest message my e-mail.
 I’m currently learning full-stack development. I am doing this through making my own portofolio.
 <!--
