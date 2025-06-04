@@ -1,11 +1,20 @@
 ## 
-I am Karun van Renselaar an enthusiastic young programmer intrested in learning everything about it. 
-📫 How to reach me: Just send me an e-mail on my verified e-mail.
-I’m currently working on a new website for my middle school that's gonna be released soon see the website here [https://github.com/devdesli/AgoraWeb].
-🤔 I’m looking for help with this new website for my middle school if you have intrest message my e-mail.
-🔭 I’m currently working on
-I’m currently learning full-stack development. I am doing this through making my own portofolio.
-I am also doing other projects but most are private on github.
+<p align="center">
+  <img src="readmeig.png" alt="develloperdesli banner" width="1000" height="300"/>
+</p>
+
+Hi! I am **Karun van Renselaar**, an enthusiastic young programmer interested in learning everything about IT.  
+
+📫 **How to reach me:** Just send me an email on my verified address.  
+
+🔭 I’m currently working on a new website for my middle school that's going to be released soon.  
+🌐 See the project here: [AgoraWeb](https://github.com/devdesli/AgoraWeb)  
+
+🤔 **Looking for help:**  
+If you’re interested in helping out with the school website, feel free to message me via email!  
+
+🌱 I’m currently learning **full-stack development** by creating my own portfolio and working on various other private projects.
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,23 +28,9 @@ I am also doing other projects but most are private on github.
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=devdesli&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**devdesli/devdesli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
