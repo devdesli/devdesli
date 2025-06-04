@@ -19,12 +19,6 @@ I am also doing other projects but most are private on github.
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devdesli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devdesli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=devdesli&icon=0&color=0)](https://visitcount.itsvg.in)
