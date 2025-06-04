@@ -1,18 +1,4 @@
 ## 
-
-
-
- __      __         .__                                     ___________            _____              ________ .__   __   .__            ___.    
-/  \    /  \  ____  |  |    ____    ____    _____    ____   \__    ___/  ____     /     \   ___.__.  /  _____/ |__|_/  |_ |  |__   __ __ \_ |__  
-\   \/\/   /_/ __ \ |  |  _/ ___\  /  _ \  /     \ _/ __ \    |    |    /  _ \   /  \ /  \ <   |  | /   \  ___ |  |\   __\|  |  \ |  |  \ | __ \ 
- \        / \  ___/ |  |__\  \___ (  <_> )|  Y Y  \\  ___/    |    |   (  <_> ) /    Y    \ \___  | \    \_\  \|  | |  |  |   Y  \|  |  / | \_\ \
-  \__/\  /   \___  >|____/ \___  > \____/ |__|_|  / \___  >   |____|    \____/  \____|__  / / ____|  \______  /|__| |__|  |___|  /|____/  |___  /
-       \/        \/            \/               \/      \/                              \/  \/              \/                 \/             \/ 
-
-
-       \/       \/          \/            \/     \/                           \/\/              \/              \/          \/ 
-
-
 I am Karun van Renselaar an enthusiastic young programmer intrested in learning everything about it. 
 📫 How to reach me: Just send me an e-mail on my verified e-mail.
 I’m currently working on a new website for my middle school that's gonna be released soon see the website here [https://github.com/devdesli/AgoraWeb].
