@@ -3,7 +3,9 @@ I am Karun van Renselaar an enthusiastic young programmer intrested in learning 
 📫 How to reach me: Just send me an e-mail on my verified e-mail.
 I’m currently working on a new website for my middle school that's gonna be released soon see the website here [https://github.com/devdesli/AgoraWeb].
 🤔 I’m looking for help with this new website for my middle school if you have intrest message my e-mail.
+🔭 I’m currently working on
 I’m currently learning full-stack development. I am doing this through making my own portofolio.
+I am also doing other projects but most are private on github.
 <!--
 **devdesli/devdesli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
