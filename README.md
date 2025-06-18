@@ -20,7 +20,12 @@ TIPS for this are welcome just mail them to agorawebapplication@gmail.com
 🤔 **Looking for help:**  
 If you’re interested in helping out with the school website, feel free to message me via email!  
 
-🌱 I’m currently learning **full-stack development** by creating my own portfolio and working on various other private projects.
+🌱 I’m currently learning **full-stack development** by creating my own portfolio and working on various other private projects and public projects.
+Examples:  
+I am working on a portofolio for myself.  
+A programming platformer puzzel game.  
+The challenge forum / maakplaats  
+and a vs code extension  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
