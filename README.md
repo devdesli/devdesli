@@ -14,7 +14,7 @@ Hi! I am **Karun van Renselaar**, an enthusiastic young programmer interested in
 [challengeforum](https://agorawebapp.pythonanywhere.com/)
 TIPS for this are welcome just mail them to agorawebapplication@gmail.com
 
-🔭 I’m currently working on a new website for my middle school that's in BETA now check the project out im looking to make it better.  
+🔭 I’m currently working on a new website for my middle school that's released now check the project out im looking to make it better.  
 🌐 See the project here on github: [AgoraWeb](https://github.com/devdesli/AgoraWeb)  
 
 🤔 **Looking for help:**  
