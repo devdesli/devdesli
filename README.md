@@ -6,7 +6,7 @@
 -->
 
 
-Hi! I am **Karun van Renselaar**, an enthusiastic young programmer interested in learning everything about IT.  
+Hi! I am **Develloper Desli**, an enthusiastic young programmer interested in learning everything about IT.  
 📫 **How to reach me:** Just send me an email on my verified address.  
 
 😁LIVE PROJECTS:  
